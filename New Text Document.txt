@@ -1,0 +1,1 @@
+R::setup('mysql:host=localhost;dbname=kaceeco_src', 'kaceeco_src', 'ThKEul%0U[7h')
